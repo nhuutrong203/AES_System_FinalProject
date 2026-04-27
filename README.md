@@ -129,8 +129,8 @@ AES_System_FinalProject/
 ├── notebooks/
 │   ├── task1_preprocessing/
 │   ├── task2_preprocessing/
+├── models/
 │   ├── criteria_filling/
 │   └── score_prediction/
-├── models/
 ├── src/
 └── README.md
