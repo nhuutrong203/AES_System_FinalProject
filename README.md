@@ -125,15 +125,12 @@ AES_System_FinalProject/
 ├── data/
 │   ├── raw/
 │   ├── processed/
-│   └── completed/
+│   └── processing/
 ├── notebooks/
 │   ├── task1_preprocessing/
 │   ├── task2_preprocessing/
 │   ├── criteria_filling/
 │   └── score_prediction/
 ├── models/
-├── results/
-│   ├── figures/
-│   └── metrics/
 ├── src/
 └── README.md
